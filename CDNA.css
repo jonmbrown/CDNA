@@ -1,0 +1,46 @@
+/* CSS declarations go here */
+
+/* FOR CDNA the Green is #5f9080 and the Brown is #a7675d */
+body {
+  font-size: 15px;
+}
+
+.table-striped { /* 100% is the default */
+  width: 100%;
+}
+
+.navbar-inverse0 {
+  background-image: linear-gradient(to bottom, black, grey 90%);
+}
+
+.navbar-inverse1 {
+/* CDNA  background-image: linear-gradient(to bottom, #5f9080, #a7675d 98%); */
+/*  background-image: linear-gradient(to bottom, red, yellow 0%);*/
+/* CDNA red:  background-image: linear-gradient(to bottom,  #6C0C0C, red 90%); */
+/* Summer  background-image: linear-gradient(to bottom, greenyellow, yellow 90%); */
+/* Winter  background-image: linear-gradient(to bottom, gold, yellow 90%); */
+  background-image: linear-gradient(to bottom, gold, yellow 90%);
+}
+
+.navbar-inverse2 {
+/* CDNA  background-image: linear-gradient(to bottom, #a7675d, #5f9080 98%); */
+/*  background-image: linear-gradient(to bottom, gold, yellow 98%);*/
+/*  background-image: linear-gradient(to bottom, gold, white 90%); */
+/* Winter  background-image: linear-gradient(to bottom, gold, yellow 90%); */
+  background-image: linear-gradient(to bottom, gold, yellow 90%);
+/* Summer  background-image: linear-gradient(to bottom, greenyellow, yellow 90%); */
+}
+
+button {
+/* background-image: linear-gradient(to bottom, gold, white 98%); */
+/* background: linear-gradient(to bottom, gold, yellow 90%);*/
+}
+
+h1 {
+  font-size: 1.3em;
+  margin: 0;
+  margin-bottom: 10px;
+  display: inline-block;
+  margin-right: 1em;
+}
+
